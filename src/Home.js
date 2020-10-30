@@ -8,25 +8,26 @@ function Home() {
       <div className="home__container">
         <img
           className="home__image"
-          src="https://images-eu.ssl-images-amazon.com/images/G/31/img19/AmazonPay/Rajeshwari/September/GWBanners/Control/DesktopHero_1500x600._CB405007888_.jpg"
+          src="https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Hero/Fuji_TallHero_Home_v2_en_US_1x._CB429090084_.jpg"
           alt=""
         />
 
         <div className="home__row">
           <Product
             id="4903850"
-            title="The Lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback"
-            price={29.99}
-            image="https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._AC_SY400_.jpg"
+            title="HP VH240a 23.8-inch Full HD 1080p IPS LED Monitor with Built-in Speakers and VESA Mounting, Rotating Portrait & Landscape, Tilt, and HDMI & VGA"
+            price={100.99}
+            image="https://images-na.ssl-images-amazon.com/images/I/71trhuzbhML._AC_SL1500_.jpg"
             rating={5}
           />
           <Product
             id="29945930"
-            title="Kenwood mix stand mixer for baking, stylish kitchen mixer with K-beater."
-            price={239.99}
+            title="Kitchen Stand for iPad, Stouch Kitchen Desktop Tablet Wall Mount iPad Holder for iPad Air/Mini, iPad 2nd-4th Generation, Kindle Fire, Other 7-10-Inch Screen Tablets Between 4.7-7.5 Inches Wide Black"
+            price={21.99}
             rating={4}
-            image="https://images-na.ssl-images-amazon.com/images/I/81O%2BGNdkzKL._AC_SX450_.jpg"
+            image="https://images-na.ssl-images-amazon.com/images/I/81vDXXu19GL._AC_SL1500_.jpg"
           />
+          
         </div>
         <div className="home__row">
           <Product
