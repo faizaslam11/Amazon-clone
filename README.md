@@ -1,4 +1,6 @@
-I used ReactJS and firebase in this project. and for payment stuffs i takes API from stripe!
+
+
+### I used ReactJS and firebase in this project. and for payment stuffs i takes API from stripe!
 
 ## Available Scripts
 
