@@ -60,7 +60,7 @@ function App() {
           </Route>
           <Route path="/payment">
             <Header />
-            <Elements stripe={promise}>
+            <Elements stripe={promise}>  //this thing is not working
               <Payment />
             </Elements>
           </Route>
