@@ -2,10 +2,6 @@
 
 ## I used ReactJs and firebase in this project and for payment stuffs i takes API from stripe
 
-## Available Scripts
-
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br />
